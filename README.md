@@ -1,3 +1,6 @@
+![Logo Capensis](logo%20Capensis.png)
+
+
 # LEAD-DEVELOPER
 
 ### Capensis en quelques mots : 
