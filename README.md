@@ -1,4 +1,4 @@
-![Logo Capensis](logo%20Capensis.png)
+<img alt="Logo Capensis" src="logo%20Capensis.png" align="right" />
 
 
 # LEAD-DEVELOPER
