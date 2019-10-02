@@ -1,7 +1,7 @@
 <img alt="Logo Capensis" src="logo%20Capensis.png" align="right" />
 
 
-# LEAD-DEVELOPER
+# LEAD-DEVELOPER (H/F)
 
 ### Capensis en quelques mots : 
 
